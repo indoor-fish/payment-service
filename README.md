@@ -19,3 +19,4 @@ See `BUSINESS_RULES.md` for payment processing rules.
 # accuracy test trigger
 # reindex
 # reindex
+# reindex3
